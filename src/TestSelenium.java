@@ -31,7 +31,7 @@ public class TestSelenium {
         pickupDate.sendKeys(Keys.TAB);
         dropOffDate.sendKeys("03/26/2020");
         submitButton.click();
-        //AddedComment
+        //AddedComments
 
     }
 }
